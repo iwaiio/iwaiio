@@ -1,8 +1,6 @@
 <h1 align="center">Привет! Я [iwai]</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iwaiio&label=Просмотры профиля&color=blue&style=flat" alt="Просмотры профиля" />
-</p>
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQyZzNkcjV5ZG80YTQwcW9hdGRrNjRjbGhqZDZra2Z0bXNiejlieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ## Обо мне
 
@@ -30,6 +28,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
+## Используемая операционная система
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 ## Мои проекты
 - **[Сайт-визитка](https://github.com/iwaiio/websiteBusinessCard)**
 
@@ -37,6 +39,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iwaiio&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </p>
+
+## Опыт работы
+
+### **РКК "Энергия":**
+    **Сентябрь 2023 — настоящее время (2 года)**
+    **Должность:** Техник (инженер-программист)
+
+    **Основные задачи и достижения:**
+    - Разработал программные модули для различных систем космических аппаратов, используемые для тестирования и отработки функциональности.
+    - Создал генераторы исходного кода (.c, .h - файлы) на основе Excel-таблиц, который автоматически преобразует табличные данные в структуры и константы для использования в embedded/system-программе, что упростило процесс разработки и минимизировало ошибки.
+    - Оптимизировал кодовые модули, улучшив читаемость и производительность систем.
+
+    **Технологии:** C, Python, Lua
 
 ## Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iwaich)
