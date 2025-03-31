@@ -1,6 +1,4 @@
-<h1 align="center">Привет! Я [iwai]</h1>
-
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQyZzNkcjV5ZG80YTQwcW9hdGRrNjRjbGhqZDZra2Z0bXNiejlieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif)
+<h1 align="center">Привет! Я Iwai</h1>
 
 ## Обо мне
 
@@ -47,8 +45,12 @@
     **Должность:** Техник (инженер-программист)
 
     **Основные задачи и достижения:**
-    - Разработал программные модули для различных систем космических аппаратов, используемые для тестирования и отработки функциональности.
-    - Создал генераторы исходного кода (.c, .h - файлы) на основе Excel-таблиц, который автоматически преобразует табличные данные в структуры и константы для использования в embedded/system-программе, что упростило процесс разработки и минимизировало ошибки.
+    - Разработал программные модули для различных систем космических аппаратов,
+    используемые для тестирования и отработки функциональности.
+    - Создал генераторы исходного кода (.c, .h - файлы) на основе Excel-таблиц,
+    который автоматически преобразует табличные данные в структуры и константы для
+    использования в embedded/system-программе, что упростилопроцесс разработки и
+    минимизировало ошибки.
     - Оптимизировал кодовые модули, улучшив читаемость и производительность систем.
 
     **Технологии:** C, Python, Lua
@@ -57,3 +59,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iwaich)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwaiworkio@gmail.com)
+
+## Спасибо, что заглянул в мой профиль!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQyZzNkcjV5ZG80YTQwcW9hdGRrNjRjbGhqZDZra2Z0bXNiejlieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
+</p>
